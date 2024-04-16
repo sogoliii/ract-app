@@ -5,7 +5,7 @@ function Sidebar() {
     <div className={styles.sidebar}>
       <AppNavVertical />
       <div className={styles.logo}>
-        <img src="public/images/logo.original.PNG" alt="Logo" />
+        <img src="/images/logo.original.PNG" alt="Logo" />
       </div>
     </div>
   );

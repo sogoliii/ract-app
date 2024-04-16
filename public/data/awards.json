@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Elahieh Renovation",
+    "id": "elahiehRenovation",
+    "img": "/ElahieRenovation/project.jpg",
+    "images": [
+      {
+        "original": "/ElahieRenovation/cover.jpg",
+        "thumbnail": "/ElahieRenovation/cover.thumbnail.jpg"
+      },
+      {
+        "original": "/ElahieRenovation/1.original.jpg",
+        "thumbnail": "/ElahieRenovation/1.thumbnail.jpg",
+        "fullscreen": "/ElahieRenovation/1.jpg"
+      },
+      {
+        "original": "/ElahieRenovation/2.original.jpg",
+        "thumbnail": "/ElahieRenovation/2.thumbnail.jpg",
+        "fullscreen": "/ElahieRenovation/2.jpg"
+      },
+      {
+        "original": "/ElahieRenovation/3.original.jpg",
+        "thumbnail": "/ElahieRenovation/3.thumbnail.jpg",
+        "fullscreen": "/ElahieRenovation/3.jpg"
+      },
+      {
+        "original": "/ElahieRenovation/4.original.jpg",
+        "thumbnail": "/ElahieRenovation/4.thumbnail.jpg",
+        "fullscreen": "/ElahieRenovation/4.jpg"
+      },
+      {
+        "original": "/ElahieRenovation/5.original.jpg",
+        "thumbnail": "/ElahieRenovation/5.thumbnail.jpg",
+        "fullscreen": "/ElahieRenovation/5.jpg"
+      },
+      {
+        "original": "/ElahieRenovation/6.original.jpg",
+        "thumbnail": "/ElahieRenovation/6.thumbnail.jpg",
+        "fullscreen": "/ElahieRenovation/6.jpg"
+      },
+      {
+        "original": "/ElahieRenovation/7.original.jpg",
+        "thumbnail": "/ElahieRenovation/7.thumbnail.jpg",
+        "fullscreen": "/ElahieRenovation/7.JPG"
+      },
+      {
+        "original": "/ElahieRenovation/8.original.jpg",
+        "thumbnail": "/ElahieRenovation/8.thumbnail.jpg",
+        "fullscreen": "/ElahieRenovation/8.JPG"
+      },
+      {
+        "original": "/ElahieRenovation/9.original.jpg",
+        "thumbnail": "/ElahieRenovation/9.thumbnail.jpg",
+        "fullscreen": "/ElahieRenovation/9.jpg"
+      },
+      {
+        "original": "/ElahieRenovation/10.original.jpg",
+        "thumbnail": "/ElahieRenovation/10.thumbnail.jpg",
+        "fullscreen": "/ElahieRenovation/10.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/11.original.jpg",
+        "thumbnail": "/ElahieREnovation/11.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/11.JPG"
+      },
+      {
+        "original": "/ElahieREnovation/12.original.jpg",
+        "thumbnail": "/ElahieREnovation/12.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/12.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/13.original.jpg",
+        "thumbnail": "/ElahieREnovation/13.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/13.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/14.original.jpg",
+        "thumbnail": "/ElahieREnovation/14.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/14.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/15.original.jpg",
+        "thumbnail": "/ElahieREnovation/15.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/15.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/16.original.jpg",
+        "thumbnail": "/ElahieREnovation/16.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/16.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/17.original.jpg",
+        "thumbnail": "/ElahieREnovation/17.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/17.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/18.original.jpg",
+        "thumbnail": "/ElahieREnovation/18.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/18.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/19.original.jpg",
+        "thumbnail": "/ElahieREnovation/19.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/19.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/20.original.jpg",
+        "thumbnail": "/ElahieREnovation/20.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/20.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/21.original.jpg",
+        "thumbnail": "/ElahieREnovation/21.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/21.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/22.original.jpg",
+        "thumbnail": "/ElahieREnovation/22.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/22.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/23.original.jpg",
+        "thumbnail": "/ElahieREnovation/23.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/23.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/24.original.jpg",
+        "thumbnail": "/ElahieREnovation/24.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/24.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/25.original.jpg",
+        "thumbnail": "/ElahieREnovation/25.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/25.jpg"
+      },
+      {
+        "original": "/ElahieREnovation/26.original.jpg",
+        "thumbnail": "/ElahieREnovation/26.thumbnail.jpg",
+        "fullscreen": "/ElahieREnovation/26.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Lavasan Suite",
+    "id": "lavasanSuite",
+    "img": "/LavasunSuite/project.png",
+    "images": [
+      {
+        "original": "/LavasunSuite/cover.jpg",
+        "thumbnail": "/LavasunSuite/cover.thumbnail.jpg"
+      },
+      {
+        "original": "/LavasunSuite/1.original.jpg",
+        "thumbnail": "/LavasunSuite/1.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/1.jpg"
+      },
+      {
+        "original": "/LavasunSuite/2.original.jpg",
+        "thumbnail": "/LavasunSuite/2.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/2.jpg"
+      },
+      {
+        "original": "/LavasunSuite/3.original.jpg",
+        "thumbnail": "/LavasunSuite/3.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/3.jpg"
+      },
+      {
+        "original": "/LavasunSuite/4.original.jpg",
+        "thumbnail": "/LavasunSuite/4.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/4.jpg"
+      },
+      {
+        "original": "/LavasunSuite/5.original.jpg",
+        "thumbnail": "/LavasunSuite/5.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/5.jpg"
+      },
+      {
+        "original": "/LavasunSuite/6.original.jpg",
+        "thumbnail": "/LavasunSuite/6.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/6.jpg"
+      },
+      {
+        "original": "/LavasunSuite/7.original.jpg",
+        "thumbnail": "/LavasunSuite/7.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/7.jpg"
+      },
+      {
+        "original": "/LavasunSuite/8.original.jpg",
+        "thumbnail": "/LavasunSuite/8.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/8.jpg"
+      },
+      {
+        "original": "/LavasunSuite/9.original.jpg",
+        "thumbnail": "/LavasunSuite/9.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/9.jpg"
+      },
+      {
+        "original": "/LavasunSuite/10.original.jpg",
+        "thumbnail": "/LavasunSuite/10.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/10.jpg"
+      },
+      {
+        "original": "/LavasunSuite/11.original.jpg",
+        "thumbnail": "/LavasunSuite/11.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/11.jpg"
+      },
+      {
+        "original": "/LavasunSuite/12.original.jpg",
+        "thumbnail": "/LavasunSuite/12.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/12.jpg"
+      },
+      {
+        "original": "/LavasunSuite/13.original.jpg",
+        "thumbnail": "/LavasunSuite/13.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/13.png"
+      },
+      {
+        "original": "/LavasunSuite/14.original.jpg",
+        "thumbnail": "/LavasunSuite/14.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/14.png"
+      },
+      {
+        "original": "/LavasunSuite/15.original.jpg",
+        "thumbnail": "/LavasunSuite/15.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/15.png"
+      },
+      {
+        "original": "/LavasunSuite/16.original.jpg",
+        "thumbnail": "/LavasunSuite/16.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/16.jpg"
+      },
+      {
+        "original": "/LavasunSuite/17.original.jpg",
+        "thumbnail": "/LavasunSuite/17.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/17.png"
+      },
+      {
+        "original": "/LavasunSuite/18.original.jpg",
+        "thumbnail": "/LavasunSuite/18.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/18.jpg"
+      },
+      {
+        "original": "/LavasunSuite/19.original.jpg",
+        "thumbnail": "/LavasunSuite/19.thumbnail.jpg",
+        "fullscreen": "/LavasunSuite/19.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Kish Entertainment Center",
+    "id": "kishEntertainmentCenter",
+    "img": "/KishCenter/project.JPG",
+    "images": [
+      {
+        "original": "/KishCenter/cover.jpg",
+        "thumbnail": "/KishCenter/cover.thumbnail.jpg"
+      },
+      {
+        "original": "/KishCenter/1.original.jpg",
+        "thumbnail": "/KishCenter/1.thumbnail.jpg",
+        "fullscreen": "/KishCenter/1.png"
+      },
+      {
+        "original": "/KishCenter/2.original.jpg",
+        "thumbnail": "/KishCenter/2.thumbnail.jpg",
+        "fullscreen": "/KishCenter/2.png"
+      },
+      {
+        "original": "/KishCenter/3.original.jpg",
+        "thumbnail": "/KishCenter/3.thumbnail.jpg",
+        "fullscreen": "/KishCenter/3.png"
+      },
+      {
+        "original": "/KishCenter/4.original.jpg",
+        "thumbnail": "/KishCenter/4.thumbnail.jpg",
+        "fullscreen": "/KishCenter/4.JPG"
+      },
+      {
+        "original": "/KishCenter/5.original.jpg",
+        "thumbnail": "/KishCenter/5.thumbnail.jpg",
+        "fullscreen": "/KishCenter/5.png"
+      },
+      {
+        "original": "/KishCenter/6.original.jpg",
+        "thumbnail": "/KishCenter/6.thumbnail.jpg",
+        "fullscreen": "/KishCenter/6.jpg"
+      },
+      {
+        "original": "/KishCenter/7.original.jpg",
+        "thumbnail": "/KishCenter/7.thumbnail.jpg",
+        "fullscreen": "/KishCenter/7.png"
+      },
+      {
+        "original": "/KishCenter/8.original.jpg",
+        "thumbnail": "/KishCenter/8.thumbnail.jpg",
+        "fullscreen": "/KishCenter/8.png"
+      },
+      {
+        "original": "/KishCenter/9.original.jpg",
+        "thumbnail": "/KishCenter/9.thumbnail.jpg",
+        "fullscreen": "/KishCenter/9.png"
+      },
+      {
+        "original": "/KishCenter/10.original.jpg",
+        "thumbnail": "/KishCenter/10.thumbnail.jpg",
+        "fullscreen": "/KishCenter/10.jpeg"
+      },
+      {
+        "original": "/KishCenter/11.original.jpg",
+        "thumbnail": "/KishCenter/11.thumbnail.jpg",
+        "fullscreen": "/KishCenter/11.jpg"
+      },
+      {
+        "original": "/KishCenter/12.original.jpg",
+        "thumbnail": "/KishCenter/12.thumbnail.jpg",
+        "fullscreen": "/KishCenter/12.jpg"
+      },
+      {
+        "original": "/KishCenter/13.original.jpg",
+        "thumbnail": "/KishCenter/13.thumbnail.jpg",
+        "fullscreen": "/KishCenter/13.jpg"
+      },
+      {
+        "original": "/KishCenter/14.original.jpg",
+        "thumbnail": "/KishCenter/14.thumbnail.jpg",
+        "fullscreen": "/KishCenter/14.jpg"
+      },
+      {
+        "original": "/KishCenter/15.original.jpg",
+        "thumbnail": "/KishCenter/15.thumbnail.jpg",
+        "fullscreen": "/KishCenter/15.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Bastak Plaza",
+    "id": "bastak",
+    "img": "/BastakPlaza/project.jpg",
+    "images": [
+      {
+        "original": "/BastakPlaza/cover.jpg",
+        "thumbnail": "/BastakPlaza/cover.thumbnail.jpg"
+      },
+      {
+        "original": "/BastakPlaza/1.original.jpg",
+        "thumbnail": "/BastakPlaza/1.thumbnail.jpg",
+        "fullscreen": "/BastakPlaza/1.jpg"
+      },
+      {
+        "original": "/BastakPlaza/2.original.jpg",
+        "thumbnail": "/BastakPlaza/2.thumbnail.jpg",
+        "fullscreen": "/BastakPlaza/2.jpg"
+      },
+      {
+        "original": "/BastakPlaza/3.original.jpg",
+        "thumbnail": "/BastakPlaza/3.thumbnail.jpg",
+        "fullscreen": "/BastakPlaza/3.jpg"
+      },
+      {
+        "original": "/BastakPlaza/4.original.jpg",
+        "thumbnail": "/BastakPlaza/4.thumbnail.jpg",
+        "fullscreen": "/BastakPlaza/4.jpg"
+      },
+      {
+        "original": "/BastakPlaza/5.original.jpg",
+        "thumbnail": "/BastakPlaza/5.thumbnail.jpg",
+        "fullscreen": "/BastakPlaza/5.jpg"
+      },
+      {
+        "original": "/BastakPlaza/6.original.jpg",
+        "thumbnail": "/BastakPlaza/6.thumbnail.jpg",
+        "fullscreen": "/BastakPlaza/6.jpg"
+      },
+      {
+        "original": "/BastakPlaza/7.original.jpg",
+        "thumbnail": "/BastakPlaza/7.thumbnail.jpg",
+        "fullscreen": "/BastakPlaza/7.jpg"
+      }
+    ]
+  }
+]

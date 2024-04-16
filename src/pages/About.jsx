@@ -9,7 +9,7 @@ function About() {
       <div className="line-vertical"></div>
       <main className={`content ${styles.about}`}>
         <img
-          src="public/images/parmis-about.png"
+          src="/images/parmis-about.png"
           alt="parmis"
           className={styles.aboutImg}
         />
