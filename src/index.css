@@ -1,0 +1,148 @@
+@import "react-image-gallery/styles/css/image-gallery.css";
+@keyframes lineVertical {
+  0% {
+    transform: scaleY(0);
+  }
+  50% {
+    transform: scaleY(0.5);
+  }
+  100% {
+    transform: scaleY(1);
+  }
+}
+
+@keyframes lineHorizontal {
+  0% {
+    transform: scaleX(0);
+  }
+  50% {
+    transform: scaleX(0.5);
+  }
+  100% {
+    transform: scaleX(1);
+  }
+}
+
+@keyframes logoMove {
+  0% {
+    transform: translateX(20rem);
+  }
+  50% {
+    transform: translateX(10rem);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.header:hover + .main .line-horizontal {
+  transform: translateX(200rem);
+}
+
+/* ////////////////////// */
+/* FONT */
+/* @font-face {
+  font-family: "Inter";
+  src: url("src/assets/Inter-Regular.ttf");
+} */
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+}
+html {
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+.home {
+  height: 85vh;
+  padding-top: 5rem;
+  padding-bottom: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.page {
+  display: flex;
+}
+
+.main {
+  display: flex;
+  align-items: end;
+}
+
+.content {
+  flex: 1;
+  padding: 5rem;
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  height: 100vh;
+  margin-left: 5rem;
+}
+
+.line-vertical {
+  width: 2px;
+  height: 100vh;
+  background-color: #000;
+  transform-origin: top;
+  animation: lineVertical linear 1.2s;
+}
+
+.line-horizontal {
+  width: 30%;
+  height: 2px;
+  background-color: #000;
+  transform-origin: left;
+  animation: lineHorizontal linear 1.7s;
+  transition: all 1.7s;
+}
+
+.header {
+  display: grid;
+  justify-items: end;
+  margin-right: 2rem;
+}
+
+.logo {
+  width: 10rem;
+  animation: logoMove linear 1.7s;
+}
+
+.logo img {
+  width: 30rem;
+  margin-bottom: -9.5rem;
+  margin-left: -10rem;
+}
+
+@media (max-width: 800px) {
+  .page {
+    flex-direction: column;
+    height: 100vh;
+  }
+  .content {
+    height: 70vh;
+    justify-content: stretch;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    align-items: baseline;
+  }
+  .line-vertical {
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+  .content {
+    align-items: start;
+    margin-left: 5px;
+  }
+}

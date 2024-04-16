@@ -1,0 +1,27 @@
+@keyframes comingUp {
+  0% {
+    transform: TranslateY(20rem);
+  }
+  50% {
+    transform: TranslateY(10rem);
+  }
+  100% {
+    transform: TranslateY(0);
+  }
+}
+
+.contact {
+  justify-content: flex-end !important;
+  padding-bottom: 10rem !important;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  animation: comingUp 2s linear;
+}
+
+@media (max-width: 800px) {
+  .contact {
+    padding: 0 !important;
+    justify-content: center !important;
+  }
+}

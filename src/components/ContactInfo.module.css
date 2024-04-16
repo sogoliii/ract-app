@@ -1,0 +1,33 @@
+.contactInfo {
+  align-self: flex-start;
+  margin-left: 10rem;
+  display: flex;
+  align-items: center;
+  font-size: 1.8rem;
+  letter-spacing: 1.5px;
+  gap: 20px;
+}
+.contactIconContainer {
+  width: 45px;
+  height: 45px;
+  text-align: center;
+  background-color: #000;
+  padding: 14px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contactIcon {
+  width: 20px;
+  height: 20px;
+  fill: #fff;
+}
+
+@media (max-width: 800px) {
+  .contactInfo {
+    font-size: 1.4rem;
+    letter-spacing: 1px;
+  }
+}

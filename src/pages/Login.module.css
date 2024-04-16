@@ -1,0 +1,56 @@
+@keyframes comeIn {
+  0% {
+    transform: scale(0);
+  }
+  50% {
+    transform: scale(0.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.formContent {
+  display: flex;
+  flex-direction: column;
+  text-transform: uppercase;
+  justify-content: flex-start !important;
+  gap: 2rem;
+  animation: comeIn 1.5s linear;
+}
+
+.formContent h2 {
+  font-size: 3.2rem;
+  padding-top: 10rem;
+  font-weight: 400;
+  /* margin-bottom: 3rem; */
+}
+
+.formContent p {
+  font-size: 1.6rem;
+  font-weight: 300;
+}
+
+.formBtn {
+  width: 10rem;
+  margin-top: 3rem;
+  font-size: inherit;
+  color: #fff;
+  background-color: #000;
+  border-radius: 20px;
+  padding: 1rem 2rem;
+  cursor: pointer;
+  border: none;
+  text-transform: uppercase;
+  font-weight: inherit;
+  font-family: inherit;
+  transition: all 1s;
+}
+
+.formBtn:hover {
+  transform: scale(1.1);
+
+  background-color: #fff;
+  color: #000;
+  border: 3px solid #000;
+}

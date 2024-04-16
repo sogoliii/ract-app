@@ -1,0 +1,61 @@
+@keyframes comeIn {
+  0% {
+    transform: scale(0);
+  }
+  50% {
+    transform: scale(0.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.userContent {
+  display: flex;
+  flex-direction: column;
+  text-transform: uppercase;
+  justify-content: flex-start !important;
+  gap: 2rem;
+  animation: comeIn 1.5s linear;
+  padding-top: 10rem;
+}
+
+.userContent h2 {
+  font-size: 3.2rem;
+  padding-top: 10rem;
+  font-weight: 400;
+  margin-bottom: 3rem;
+  margin-top: 10rem;
+}
+
+.userContent p {
+  font-size: 1.6rem;
+  font-weight: 300;
+  color: #848482;
+}
+
+.userBtn {
+  text-align: center;
+  text-decoration: none;
+  width: 20rem;
+  margin-top: 3rem;
+  font-size: 1.6rem;
+  color: #fff;
+  background-color: #000;
+  border-radius: 20px;
+  padding: 1rem 2rem;
+  cursor: pointer;
+  border: none;
+  text-transform: uppercase;
+  font-weight: inherit;
+  font-family: inherit;
+  transition: all 1s;
+}
+
+.userBtn:hover {
+  transform: scale(1.1);
+
+  background-color: #fff;
+  color: #000;
+  border: 3px solid #000;
+}

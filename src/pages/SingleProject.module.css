@@ -1,0 +1,36 @@
+.ProjectContent {
+  max-width: 85rem;
+}
+
+.ProjectContent h2 {
+  font-weight: 400;
+  font-size: 2.4rem;
+}
+.ProjectContent a {
+  font-size: 1.6rem;
+  color: rgb(122, 122, 122);
+  line-height: 2.4rem;
+  text-align: justify;
+  border: 2px solid #000;
+  border-radius: 10px;
+  padding: 0 5rem;
+  cursor: pointer;
+  transition: all 1s;
+  text-decoration: none;
+}
+
+.ProjectContent a:hover {
+  color: #fff;
+  background-color: #000;
+}
+
+@media (max-width: 800px) {
+  .ProjectContent {
+    width: 80%;
+  }
+}
+@media (max-width: 600px) {
+  .ProjectContent {
+    width: 100%;
+  }
+}
